@@ -1,0 +1,58 @@
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\Median cut.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\Median cut.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\bin\Debug\netcoreapp3.1\Median cut.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csprojAssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut_MarkupCompile.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut_MarkupCompile.lref
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.g.resources
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csproj.CopyComplete
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Median-cut\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.genruntimeconfig.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Median Cut.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csprojAssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut_MarkupCompile.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut_MarkupCompile.lref
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.g.resources
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.csproj.CopyComplete
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Median Cut.genruntimeconfig.cache

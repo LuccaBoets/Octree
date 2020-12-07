@@ -1,0 +1,53 @@
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\appsettings.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\ref\Octree GUI.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.Views.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree GUI.Views.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\bin\Debug\net5.0\Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.csprojAssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorComponent.input.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorComponent.output.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\RazorDeclaration\Octree GUI.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.TagHelpers.input.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.TagHelpers.output.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorCoreGenerate.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorAssemblyInfo.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorAssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\staticwebassets\Octree GUI.StaticWebAssets.Manifest.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\staticwebassets\Octree GUI.StaticWebAssets.xml
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\scopedcss\bundle\Octree GUI.styles.css
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorTargetAssemblyInfo.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.RazorTargetAssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.Views.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.csproj.CopyComplete
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\ref\Octree GUI.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree GUI\obj\Debug\net5.0\Octree GUI.genruntimeconfig.cache

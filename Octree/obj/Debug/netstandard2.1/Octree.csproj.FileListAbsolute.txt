@@ -1,0 +1,10 @@
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\bin\Debug\netstandard2.1\Octree.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\bin\Debug\netstandard2.1\Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\bin\Debug\netstandard2.1\Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.csprojAssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.csproj.ResolveComReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\Octree\obj\Debug\netstandard2.1\Octree.pdb

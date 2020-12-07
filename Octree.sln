@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Octree", "Octree\Octree.csproj", "{AC923145-0FDD-4C19-BED1-D6B2B9F9A10D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Octree GUI", "Octree GUI\Octree GUI.csproj", "{9A7DC93A-6511-4C35-9B64-DAA6D9D7FC19}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GIU Octree", "GIU Median Cut\GIU Octree.csproj", "{357469F0-1475-4336-AFCD-A52ED0028137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC923145-0FDD-4C19-BED1-D6B2B9F9A10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC923145-0FDD-4C19-BED1-D6B2B9F9A10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC923145-0FDD-4C19-BED1-D6B2B9F9A10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC923145-0FDD-4C19-BED1-D6B2B9F9A10D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A7DC93A-6511-4C35-9B64-DAA6D9D7FC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7DC93A-6511-4C35-9B64-DAA6D9D7FC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7DC93A-6511-4C35-9B64-DAA6D9D7FC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7DC93A-6511-4C35-9B64-DAA6D9D7FC19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{357469F0-1475-4336-AFCD-A52ED0028137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{357469F0-1475-4336-AFCD-A52ED0028137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{357469F0-1475-4336-AFCD-A52ED0028137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{357469F0-1475-4336-AFCD-A52ED0028137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A24A8DA4-43DA-466A-9700-468021A8A806}
+	EndGlobalSection
+EndGlobal

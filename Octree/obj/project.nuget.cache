@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FGMrmToENsguwbW1Y6oQM3EZcE302U8B15dd6zt2F288D7seE/qcusu9ImieofuEbDm1ey0shmfuksRU0yCxBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\Octree\\Octree\\Octree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boets\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\boets\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\boets\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

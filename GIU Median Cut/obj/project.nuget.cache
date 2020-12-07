@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f8QgGWU+ugP5Zufd5k1ttNGg9DDEXTGeIsCY0I58MGozuVDzlhqGUizziQK3q3Kbu5tT3q7UzJaUmS9TeN9HPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boets\\OneDrive\\Documents\\GitHub\\Octree\\GIU Median Cut\\GIU Octree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boets\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\boets\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\boets\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

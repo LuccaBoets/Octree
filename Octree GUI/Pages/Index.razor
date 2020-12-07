@@ -1,0 +1,141 @@
+﻿@page "/"
+@using System.Drawing;
+@using Octree;
+@using System;
+@using Microsoft.AspNetCore.Components.Forms
+@using System.IO;
+
+
+<h1>Octree color quantization </h1>
+
+<p>
+    <InputFile OnChange="@OnInputFileChange" />
+</p>
+
+<div style="display: block ruby">
+    @foreach (var color in colors)
+    {
+        <div style="width: 100px; height: 100px; background-color: rbg(@color.R,@color.B,@color.G)">
+        </div>
+    }
+</div>
+
+@if (imageDataUri != null)
+{
+    <p>
+        Uploaded image:<br />
+        <img id="image-uploaded" src="@imageDataUri" />
+    </p>
+}
+
+@code {
+
+    public List<Color> colors { get; set; }
+    String format = "image/png";
+    string imageDataUri;
+    int maxAllowedFiles = 3;
+    long maxFileSize = 1024 * 1024 * 15;
+
+    protected override void OnInitialized()
+    {
+        colors = new List<Color>();
+    }
+
+    async void LoadFile(InputFileChangeEventArgs e)
+    {
+        var imageFile = e.GetMultipleFiles(1);
+
+        var readStream = imageFile.FirstOrDefault().OpenReadStream(); //.RequestImageFileAsync(format,100, 100).OpenReadStream;
+        Bitmap.FromStream(readStream);
+
+        var image = Image.FromStream(readStream);
+
+        @*var filetype = files.FirstOrDefault().Name;
+            if (filetype.Contains("png") || filetype.Contains("jpg") || filetype.Contains("gif"))
+            {
+                using (var reader = new System.IO.StreamReader(files.FirstOrDefault().Data))
+                {
+                    var temp1 = await reader.ReadToEndAsync();
+                    //reader.read
+                }
+                var temp = files.FirstOrDefault().Data;
+                var img = Bitmap.FromStream(temp);
+                Control.run(img);
+            }*@
+    }
+
+    async Task LoadImage(InputFileChangeEventArgs e)
+    {
+        var format = "image/jpeg";
+        var imageFile = await e.File.RequestImageFileAsync(format, 640, 480);
+
+        using var fileStream = imageFile.OpenReadStream(maxFileSize);
+        using var memoryStream = new MemoryStream();
+        await fileStream.CopyToAsync(memoryStream);
+
+        imageDataUri = $"data:{format};base64,{Convert.ToBase64String(memoryStream.ToArray())}";
+        StateHasChanged();
+        Console.WriteLine("begin");
+        var img = Image.FromFile(imageDataUri);
+        Console.WriteLine("middle");
+
+        colors = Control.run(img);
+        Console.WriteLine("end");
+
+    }
+
+    private async Task UploadFile(InputFileChangeEventArgs e)
+    {
+        var path = Path.GetTempPath();
+        var name = Path.GetRandomFileName();
+        Console.WriteLine($"{path} {name}");
+
+        using var file = File.OpenWrite(Path.Combine(path, name));
+        using var stream = e.File.OpenReadStream();
+
+        var buffer = new byte[4 * 1096];
+        int bytesRead;
+        double totalRead = 0;
+
+
+        while ((bytesRead = await stream.ReadAsync(buffer)) != 0)
+        {
+            totalRead += bytesRead;
+            await file.WriteAsync(buffer);
+
+            StateHasChanged();
+        }
+
+        var img = Image.FromFile($"{path}/{name}");
+
+        Console.WriteLine("Done");
+    }
+
+    private async Task OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        var maxAllowedFiles = 3;
+        var format = "image/png";
+
+        foreach (var imageFile in e.GetMultipleFiles(maxAllowedFiles))
+        {
+            
+
+            using (StreamReader sr = new StreamReader(imageFile.OpenReadStream()))
+            {
+                //This allows you to do one Read operation.
+                Console.WriteLine(sr.ReadToEnd());
+            }
+
+            @*var resizedImageFile = await imageFile.RequestImageFileAsync(format,
+        100, 100);
+            var buffer = new byte[resizedImageFile.Size];*@
+            //await resizedImageFile.OpenReadStream().ReadAsync(buffer);
+
+
+
+
+
+
+        }
+    }
+}

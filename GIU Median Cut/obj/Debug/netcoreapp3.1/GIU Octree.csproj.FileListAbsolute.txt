@@ -1,0 +1,28 @@
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.exe
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.deps.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.runtimeconfig.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.runtimeconfig.dev.json
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\GIU Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\bin\Debug\netcoreapp3.1\Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.csprojAssemblyReference.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree_MarkupCompile.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree_MarkupCompile.lref
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.g.resources
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.AssemblyInfoInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.AssemblyInfo.cs
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.csproj.CoreCompileInputs.cache
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.csproj.CopyComplete
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.dll
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.pdb
+C:\Users\boets\OneDrive\Documents\GitHub\Octree\GIU Median Cut\obj\Debug\netcoreapp3.1\GIU Octree.genruntimeconfig.cache
