@@ -54,17 +54,17 @@ namespace Octree
             float g = (float)color.G / 255.0f;
             float b = (float)color.B / 255.0f;
 
-            float max, min;
+            //float max, min;
 
-            max = r; min = r;
+            //max = r; min = r;
 
-            if (g > max) max = g;
-            if (b > max) max = b;
+            //if (g > max) max = g;
+            //if (b > max) max = b;
 
-            if (g < min) min = g;
-            if (b < min) min = b;
+            //if (g < min) min = g;
+            //if (b < min) min = b;
 
-            var brightness = (max + min) / 2;
+            //var brightness = (max + min) / 2;
 
             //float[] temp = { color.GetHue(), color.GetSaturation() * 100, ((float)(0.2126 * color.R + 0.7152 * color.G + 0.0722 * color.B)) };
             float[] temp = { color.R, color.G, color.B};
